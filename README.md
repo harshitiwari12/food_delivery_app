@@ -1,16 +1,33 @@
-# food_delivery_app
+# Food Ordering App
 
-A new Flutter project.
+A Flutter application that allows users to order food from local restaurants.  
+The app uses **BloC architecture** for state management and follows **SOLID principles**.
+
+---
+
+## Features
+
+- Browse restaurants
+- View restaurant menu
+- Add items to cart
+- Place orders
+- Realistic workflow with proper error handling
+- Custom UI with aesthetically pleasing design
+- Unit tests for business logic
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (>= 3.0.0)
+- Android Studio or VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+```bash
+git clone <your-repo-link>
+cd food_ordering_app
